@@ -1,5 +1,3 @@
-<!--
-**KartheekLade/KartheekLade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Hola, I'm [Kartheek Lade!](https://kartheekalde.github.io) 👋
 
@@ -25,17 +23,16 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 10 hours on thinking everyday.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/0xh3nry)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartheek-lade-922359166/)](https://www.linkedin.com/in/kartheek-lade-922359166)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://kartheeklade.github.io)
+[![Twitter: 0xh3nry](https://img.shields.io/twitter/follow/0xh3nry?style=social)](https://twitter.com/0xh3nry)
+[![Linkedin: Kartheek Lade](https://img.shields.io/badge/-Kartheek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartheek-lade-922359166/)](https://www.linkedin.com/in/kartheek-lade-922359166)
+[![website](https://img.shields.io/badge/PortfolioWebsite-kartheeklade-2648ff?style=flat-square&logo=google-chrome)](https://kartheeklade.github.io)
   
 
 <a href="https://github.com/KartheekLade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartheekLade&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/KartheekLade">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KartheekLade&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 <div align="center">
