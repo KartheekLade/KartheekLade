@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KartheekLade&label=Views&color=blue&style=plastic" alt="KArtheekLade" /> </p>
 
-<a href="https://twitter.com/0xh3nry">
-  <img align="center" alt="Kartheek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kartheek-lade-922359166/">
-  <img align="center" alt="Kartheek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <br/>
 <br/>
 
