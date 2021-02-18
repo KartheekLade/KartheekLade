@@ -6,7 +6,6 @@
 <br/>
 <br/>
 
-
 - 🔭 I’m currently working on Cyber Security.
 - 🌱 I’m currently learning more about VAPT & Cloud Security.
 - 👯 I’m looking to collaborate on Bug hunting.
