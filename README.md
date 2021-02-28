@@ -1,19 +1,15 @@
 
 ## Hola, I'm [Kartheek Lade!](https://kartheekalde.github.io) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KartheekLade&label=Views&color=blue&style=plastic" alt="KArtheekLade" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KartheekLade&label=Views&color=blue&style=plastic" alt="KartheekLade" /> </p>
 
-<br/>
-<br/>
-
-- 🔭 I’m currently working on Cyber Security.
+- 🔭 I’m currently working on Hardware Security.
 - 🌱 I’m currently learning more about VAPT & Cloud Security.
 - 👯 I’m looking to collaborate on Bug hunting.
 - 🤔 I’m looking for help with learning Radio Security.
 - 💬 Ask me about Automotive Sec or any tech related stuff.
 - 📫 How to reach me: [Twitter - @0xh3nry](https://twitter.com/0xh3nry).
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 10 hours on thinking everyday.
+- ⚡ Fun fact: I spend almost 10 hours either thinking or sleeping everyday.
 
 [![Twitter: 0xh3nry](https://img.shields.io/twitter/follow/0xh3nry?style=social)](https://twitter.com/0xh3nry)
 [![Linkedin: Kartheek Lade](https://img.shields.io/badge/-Kartheek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartheek-lade-922359166/)](https://www.linkedin.com/in/kartheek-lade-922359166)
