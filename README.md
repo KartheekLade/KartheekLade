@@ -27,10 +27,3 @@
   <img align="left" alt="0xh3nry's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KartheekLade&show_icons=true&hide_border=true" />
 
 </details>
-
-
-<div align="left">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
