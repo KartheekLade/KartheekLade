@@ -15,15 +15,21 @@
 [![Linkedin: Kartheek Lade](https://img.shields.io/badge/-Kartheek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartheek-lade-922359166/)](https://www.linkedin.com/in/kartheek-lade-922359166)
 [![website](https://img.shields.io/badge/PortfolioWebsite-kartheeklade-2648ff?style=flat-square&logo=google-chrome)](https://kartheeklade.github.io)
   
+<details>
+  <summary>:zap: languages used</summary>
 
-<a href="https://github.com/KartheekLade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartheekLade&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/KartheekLade">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KartheekLade&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+  <img align="left" alt="0xh3nry's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartheekLade&theme=light&hide_langs_below=1" />
 
-<div align="center">
+</details>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="0xh3nry's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KartheekLade&show_icons=true&hide_border=true" />
+
+</details>
+
+
+<div align="left">
 
 ### Show some ❤️ by starring some of the repositories!
 
