@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Hardware Security.
 - 🌱 I’m currently learning more about VAPT & Cloud Security.
-- 👯 I’m looking to collaborate on Bug hunting.
+- 👯 I’m looking to collaborate on making content.
 - 🤔 I’m looking for help with learning Radio Security.
 - 💬 Ask me about Automotive Sec or any tech related stuff.
 - 📫 How to reach me: [Twitter - @0xh3nry](https://twitter.com/0xh3nry).
