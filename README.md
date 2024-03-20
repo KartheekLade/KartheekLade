@@ -1,5 +1,5 @@
 
-## Hola, I'm [Kartheek Lade!](https://kartheekalde.github.io) 👋
+## Hola, I'm [Kartheek Lade!](https://kartheekalde.com) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KartheekLade&label=Views&color=blue&style=plastic" alt="KartheekLade" /> </p>
 
@@ -13,7 +13,7 @@
 
 [![Twitter: 0xh3nry](https://img.shields.io/twitter/follow/0xh3nry?style=social)](https://twitter.com/0xh3nry)
 [![Linkedin: Kartheek Lade](https://img.shields.io/badge/-Kartheek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartheek-lade-922359166/)](https://www.linkedin.com/in/kartheek-lade-922359166)
-[![website](https://img.shields.io/badge/PortfolioWebsite-kartheeklade-2648ff?style=flat-square&logo=google-chrome)](https://kartheeklade.github.io)
+[![website](https://img.shields.io/badge/PortfolioWebsite-kartheeklade-2648ff?style=flat-square&logo=google-chrome)](https://kartheeklade.com)
   
 <details>
   <summary>:zap: languages used</summary>
